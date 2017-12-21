@@ -1,0 +1,11 @@
+#metadata.broker.list=10.62.242.125:9092,10.62.242.126:9092
+bootstrap.servers=10.62.242.123:9092,10.62.242.124:9092,10.62.242.125:9092,10.62.242.126:9092,10.62.242.137:9092
+value.serializer=org.apache.kafka.common.serialization.StringSerializer
+key.serializer=org.apache.kafka.common.serialization.StringSerializer
+producer.type=sync
+retries=2
+acks=0
+#compression.type=gzip
+batch.size=7388608
+linger.ms=800
+buffer.memory=51457280

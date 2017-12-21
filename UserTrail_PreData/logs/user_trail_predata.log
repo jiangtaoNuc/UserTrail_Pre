@@ -1,0 +1,10 @@
+2017-12-21 10:13:48 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(51) -开始读取nid_bsc.txt
+2017-12-21 10:13:49 [ERROR] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(67) -读取文件失败
+2017-12-21 10:13:59 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(51) -开始读取nid_bsc.txt
+2017-12-21 10:13:59 [ERROR] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(67) -读取文件失败
+2017-12-21 10:18:24 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(52) -开始读取nid_bsc.txt
+2017-12-21 10:19:41 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(26) -开始读取bts_btsId_relation.txt
+2017-12-21 10:19:41 [ERROR] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(39) -读取文件失败
+2017-12-21 10:19:41 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(50) -开始读取nid_bsc.txt
+2017-12-21 10:20:28 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(26) -开始读取bts_btsId_relation.txt
+2017-12-21 10:20:28 [ INFO] - com.asiainfo.beijing.utils.DealCell -InitDimInfo.java(50) -开始读取nid_bsc.txt
